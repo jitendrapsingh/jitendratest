@@ -1,2 +1,3 @@
 ifconfig
 route -n
+hostname
